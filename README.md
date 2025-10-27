@@ -1,16 +1,31 @@
 ## Hi there 👋
+Im makka , hongKonger & INTJ. here's just the place for me to chill.
 
-<!--
-**immakka/immakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔧 working in electronics components trading (China<->Japan business)
+- 🌱 currently learning cybersecurity, network security, and database management
+- 🎯 aspiring to work in healthcare IT security
+- 🔒 pursuing compTIA Security+ and CISSP
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Operating Systems**
+- windows11, WSL/Linux
+**Security & Networking**
+- network security fundamentals
+- firewall configuration
+- port security (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases & Scripting**
+- SQL
+- powerShell scripting
+- bash/Linux commands
+- python (beginner)
+
+**Tools**
+- vs Code, terminal, git
+
+- ## 📚 Currently Learning
+- network vulnerability assessment
+- penetration testing tools (Nessus, Wireshark)
+- SQL database
+- linux system
