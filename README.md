@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🔅〽️
 Im makka , hongKonger & INTJ. here's just the place for me to chill.
 
 ### About Me
@@ -10,6 +10,7 @@ Im makka , hongKonger & INTJ. here's just the place for me to chill.
 ## 🛠️ Tech Stack
 **Operating Systems**
 - windows11, WSL/Linux
+
 **Security & Networking**
 - network security fundamentals
 - firewall configuration
@@ -22,7 +23,7 @@ Im makka , hongKonger & INTJ. here's just the place for me to chill.
 - python (beginner)
 
 **Tools**
-- vs Code, terminal, git
+- vs code, terminal, git
 
 - ## 📚 Currently Learning
 - network vulnerability assessment
