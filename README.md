@@ -28,7 +28,7 @@ Building hands on skills through self-hosted homelab projects and cloud security
 `Wazuh (SIEM)` `Suricata (NIDS)` `Honeypots` `Log Analysis`
 
 **Scripting & Dev**  
-`Python` `Bash` `Git`
+`Python` `Zsh` `Git`
 
 ---
 
