@@ -1,32 +1,53 @@
-## 🔅〽️
-Im makka , hongKonger & INTJ. here's just the place for me to chill.
+# 👋 Hi, I'm Makka
 
-### About Me
-- 🔧 working in electronics components trading (China<->Japan business)
-- 🌱 currently learning cybersecurity, network security, and database management
-- 🎯 aspiring to work in healthcare IT security
-- 🔒 pursuing compTIA Security+ and CISSP
+IT Infrastructure & Security enthusiast based in **Hong Kong 🇭🇰 , INTJ **.  
+Transitioning into cybersecurity from an electronics component sourcing background.  
+Building hands on skills through self-hosted homelab projects and cloud security experiments.
 
-## 🛠️ Tech Stack
-**Operating Systems**
-- windows11, WSL/Linux
+📍 Open to roles in: SOC Analyst · Security Analyst · Infrastructure Engineer · IT Support (Medical/Enterprise)
 
-**Security & Networking**
-- network security fundamentals
-- firewall configuration
-- port security (learning)
+---
 
-**Databases & Scripting**
-- SQL
-- powerShell scripting
-- bash/Linux commands
-- python (beginner)
+## 🔭 What I'm building
 
-**Tools**
-- vs code, terminal, git
+- 🛡️ **MakkaGuard** — Self-hosted homelab security stack (Blocky, Unbound, Wazuh, Suricata, Tailscale) running 24/7 on a Mac mini. Simulates a mini enterprise environment for DNS filtering, network IDS, and log analysis.
+- ☁️ **Azure Linux Honeypot** — Final Year Project deploying low cost Azure VM as public facing honeypots to capture real world attack traffic for analysis.
+- 📚 **CompTIA Security+** — Actively studying; applying concepts directly in homelab for hands on reinforcement.
 
-- ## 📚 Currently Learning
-- network vulnerability assessment
-- penetration testing tools (Nessus, Wireshark)
-- SQL database
-- linux system
+---
+
+## 🧰 Tech Stack
+
+**Infrastructure & Systems**  
+`Linux (Ubuntu)` `macOS` `Docker` `OrbStack` `Raspberry Pi`
+
+**Networking & DNS**  
+`Pi-hole` `Unbound` `Blocky` `Tailscale`
+
+**Security**  
+`Wazuh (SIEM)` `Suricata (NIDS)` `Honeypots` `Log Analysis`
+
+**Scripting & Dev**  
+`Python` `Bash` `Git`
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [MakkaGuard](https://github.com/immakka/MakkaGuard) | Self-hosted security monitoring homelab | Docker, Wazuh, Suricata, Blocky |
+| [Azure Honeypot FYP](https://github.com/immakka/azure-honeypot) | Cloud-based honeypot for attack traffic capture | Azure, Linux, Logging |
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immakka&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Get in touch
+
+- 💼 LinkedIn: 
+- ✉️ Email: immakka@icloud.com
